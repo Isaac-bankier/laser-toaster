@@ -1,0 +1,41 @@
+.rich_people {
+  top: 1%;
+}
+.working_class {
+  bottom: 99%;
+}
+
+.fear {
+  display: none;
+}
+
+.ninja {
+  color: black;
+  visibility: hidden;
+  animation-duration: 0.00001s
+}
+
+.ghost {
+  color: white;
+  opacity: 0.1;
+}
+
+.ikea {
+  display: table;
+}
+
+.lego {
+  display: block;
+}
+
+.tower_of_pisa {
+  font-style: italic;
+}
+
+.monarch {
+  position: inherit;
+}
+
+.titanic {
+  float: none;
+}
